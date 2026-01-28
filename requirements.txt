@@ -26,6 +26,7 @@ BeautifulReport==0.1.3
 paddleocr>=2.6.1.3
 paddlepaddle>=2.4.2
 unittestreport>=1.5.1
+pocoui>=1.0.94
 
 
 # Logging ---------------------------------------------------------------------
